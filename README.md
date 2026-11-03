@@ -6,3 +6,6 @@ Our COMP 354 team repo for the MediLink assignment. MediLink is a made-up appoin
 
 ## Incidents
 Open every incident with the Incident template. It gets a Five Whys within 2 working days and stays open until every follow-up has an owner.
+
+## Support
+Each week one person handles all support requests. See the [support rotation](docs/support-rotation.md).
