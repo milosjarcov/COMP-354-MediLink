@@ -5,7 +5,7 @@
 
 The MediLink development team has experienced delays in reviewing pull requests.
 
-In this illustrative scenario, a developer is struggling to balance new development tasks with existing review responsibilities.
+During the simulated coaching session, the developer discussed the challenge of balancing new development tasks with existing pull-request review responsibilities.
 
 The engineering manager conducts a coaching conversation to help the developer understand the difficulty and identify a practical improvement.
 
@@ -45,7 +45,7 @@ Developer: We could compare pull-request review turnaround times and check wheth
 
 ## 3. Lessons Learned
 
-The illustrative conversation suggests that delayed reviews may result from unclear prioritization and competing responsibilities rather than a lack of individual effort.
+The coaching conversation highlighted how unclear prioritization and competing development responsibilities can contribute to delayed pull-request reviews rather than necessarily indicating a lack of individual effort.
 
 It also demonstrates how coaching questions can help developers recognize workflow problems and propose improvements independently.
 
