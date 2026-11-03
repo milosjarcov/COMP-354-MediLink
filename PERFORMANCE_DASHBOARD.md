@@ -83,6 +83,18 @@ Blocked work requires documented blockers, while checklist compliance and FTR re
 
 Missing measurements should be reported as unavailable rather than treated as zero.
 
+### Current Performance Dashboard
+
+| Performance Metric | Current Result | Evidence Status |
+|---|---|---|
+| Review Turnaround Time | N/A | No formal reviews recorded for PR #11 or PR #12 |
+| Delivery Reliability | N/A | No confirmed baseline of planned versus completed work |
+| Blocked Work | Not yet verified | No documented blocker count established |
+| Checklist Compliance | N/A | Verification checklist results not available |
+| First-Time-Right (FTR) | N/A | No confirmed acceptance-without-rework records |
+
+N/A indicates insufficient evidence, not zero performance. These results are preliminary and should be updated when the team completes and documents its workflow activities.
+
 ## 5. Interpretation and Limitations
 
 Engineering performance indicators should be interpreted in context.
