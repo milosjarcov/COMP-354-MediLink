@@ -9,6 +9,14 @@ In this illustrative scenario, a developer is struggling to balance new developm
 
 The engineering manager conducts a coaching conversation to help the developer understand the difficulty and identify a practical improvement.
 
+**Session format:** Engineering coaching conducted between two team members.
+
+**Engineering manager:** Yoanna
+
+**Developer:** Milos
+
+**Scenario:** Delays in pull-request reviews due to competing development responsibilities.
+
 ## 2. Coaching Conversation
 
 Manager: What has been making it difficult to complete pull-request reviews on time?
@@ -41,11 +49,15 @@ The illustrative conversation suggests that delayed reviews may result from uncl
 
 It also demonstrates how coaching questions can help developers recognize workflow problems and propose improvements independently.
 
-## 4. Proposed Improvement Action
+## 4. Agreed Improvement Action
 
-Introduce a lightweight review-prioritization practice in which developers check outstanding review requests before beginning additional work.
+During the simulated coaching session, the engineering manager and developer agreed to introduce a lightweight pull-request review prioritization practice.
 
-The team would establish clear review ownership and reasonable response-time expectations.
+The developer will check outstanding review requests before starting additional development tasks and identify reviews that may be blocking other team members.
+
+The engineering manager will help clarify review ownership and establish reasonable response-time expectations.
+
+The effectiveness of this action will be evaluated by monitoring pull-request review turnaround time and the number of work items waiting for review.
 
 ## 5. Evaluation Method
 
