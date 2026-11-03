@@ -61,19 +61,27 @@ Measurement source: Pull-request reviews and rework records.
 
 ## 4. Initial Repository Observations
 
-The supplied GitHub screenshots show an active MediLink repository containing issues related to appointment reminders, incident handling, documentation, support rotation, and daily coordination.
+The following observations were obtained from the MediLink GitHub repository during the simulated development cycle.
 
-The pull-request screenshot shows three open pull requests:
+| Indicator | Observed Result | Interpretation |
+|---|---|---|
+| Open issues | 7 | The repository contains documented work items requiring attention. |
+| Initially open pull requests | 3 | Three changes were awaiting integration at the time of the initial screenshot. |
+| Dashboard and coaching pull requests | 2 merged (PR #11 and PR #12) | Both documentation changes were successfully integrated into the main branch. |
+| Formal reviews on PR #11 and PR #12 | 0 shown | Both were merged without a formal GitHub review recorded. |
+| Linked GitHub Project board | None | The repository does not currently have a linked project board. |
 
-- Add risk register for the next release
-- Add incident template
-- Add support rotation
+These observations describe repository activity and workflow visibility. They do not independently establish developer productivity, delivery reliability, checklist compliance, or First-Time-Right quality.
 
-These records establish that management-related work has been created in the repository.
+### Measurement Availability
 
-However, the screenshots do not establish completed reviews, verified work items, checklist compliance, or First-Time-Right outcomes.
+Review turnaround time cannot currently be calculated for PR #11 and PR #12 because no formal review is recorded.
 
-Therefore, numerical performance results cannot yet be calculated reliably from the supplied screenshots alone.
+Delivery reliability requires a defined set of planned work items and their completion status.
+
+Blocked work requires documented blockers, while checklist compliance and FTR require verification and review evidence.
+
+Missing measurements should be reported as unavailable rather than treated as zero.
 
 ## 5. Interpretation and Limitations
 
